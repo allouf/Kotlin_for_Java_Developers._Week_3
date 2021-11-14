@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Nice String/Task/build/
+/Taxi Park/Task/build/
